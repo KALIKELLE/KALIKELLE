@@ -6,11 +6,12 @@
 <br>
 
 ## 🙆‍♀️「私について」 About Me
-* I'm currently taking my Bachelor of IT (Double Major) with 🎓Murdoch University: <br>
+* I'm currently expanding my technical acumen, pursuing my Bachelor of IT (Double Major) at 🎓Murdoch University: <br>
 &emsp; 1. 💻Computer Science <br>
 &emsp; 2. 🎮Games Software Design & Production <br>
-* I'm been in the 🔉Sound & 🎼Music industry for the past 8 years, where I have worked on a number of movies, short films & commercials! <br>
-* And now... I'm venturing into the Information Technology / Gaming industry!❤️ <br>
+* 🔊 With 10 years of audio design, I've been fine-tuning my skills to bring immersive auditory experiences to life across various platforms, including short films, TVCs, and 2 local movies. <br>
+* 🎧 Specialising in Game Audio, Steinberg Nuendo, and Wwise, I have a passion for sound that not only enhances gameplay but also tells a captivating story. My role encompasses a diverse range of tasks – from the creation and integration of audio assets to debugging audio challenges. But what I love most about my job is the opportunity to creatively use technology to enhance sound and tackle complex problems. <br>
+* ❤️ Looking forward, my aim is to merge my knowledge and experience, blending technological insights with an artistic vision to create unique experiences and innovative solutions. <br>
 
 <p align = "center">
   🚧README page still in progress. Sorry!🚧
