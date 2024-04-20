@@ -1,5 +1,5 @@
 <h1 align = "center">
-  こんにちは！ 私の名前は Kali❤️です。 <br>
+  こんにちは！私の名前は Kali❤️ です。<br>
 </h1>
 
 <img align = "center" src = "https://github.com/KALIKELLE/KALIKELLE/assets/138371314/88fcee4a-f08d-48e5-89a6-0f0c386a8a54" alt = "姉妹と夜空と街明かり"> <br>
