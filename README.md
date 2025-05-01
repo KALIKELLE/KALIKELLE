@@ -2,17 +2,12 @@
   こんにちは！私の名前は Kali❤️ です。<br>
 </h1>
 
-<img align = "center" src = "https://github.com/KALIKELLE/KALIKELLE/assets/138371314/88fcee4a-f08d-48e5-89a6-0f0c386a8a54" alt = "姉妹と夜空と街明かり"> <br>
+<img align = "center" src = "https://github.com/user-attachments/assets/556c8119-386a-4d71-829e-846754eec239" alt = "My Banner"> <br>
 <br>
 
 ## 🙆‍♀️「私について」 About Me
-* I'm currently expanding my technical acumen, pursuing my Bachelor of IT (Double Major) at 🎓Murdoch University: <br>
-&emsp; 1. 💻Computer Science <br>
-&emsp; 2. 🎮Games Software Design & Production <br>
-* 🔊 With 10 years of audio design, I've been fine-tuning my skills to bring immersive auditory experiences to life across various platforms, including short films, TVCs, and 2 local movies. <br>
-* 🎧 Specialising in Game Audio, Steinberg Nuendo, and Wwise, I have a passion for sound that not only enhances gameplay but also tells a captivating story. My role encompasses a diverse range of tasks – from the creation and integration of audio assets to debugging audio challenges. But what I love most about my job is the opportunity to creatively use technology to enhance sound and tackle complex problems. <br>
-* ❤️ Looking forward, my aim is to merge my knowledge and experience, blending technological insights with an artistic vision to create unique experiences and innovative solutions. <br>
-
-<p align = "center">
-  🚧README page still in progress. Sorry!🚧
+* 🔊 With 13 years of audio design experience, I’ve worked across short films, TVCs, local films, and most recently, AAA titles at Ubisoft. I led sound design for Skull & Bones, from production through its live-game phase (1st year), delivering immersive audio that supports gameplay and narrative. <br>
+* 🎧 At Ubisoft, I handle SFX creation, integration, pipeline development, and feature innovation—while mentoring peers and ensuring mixes meet industry standards. I specialise in Wwise, Steinberg Nuendo, and using tech creatively to solve complex audio problems. <br>
+* 🎓 Nearing graduation with a double major in 💻Computer Science and 🎮Games Design at Murdoch University, I bring extra value through skills in project management, programming, ML, and software development—blending tech with artistry in every project. <br>
+* 🛠️ I've also developed two mini-games in Unity, expanding my understanding of game dev beyond audio and into the player’s experience as a whole. <br>
 </p>
