@@ -7,7 +7,6 @@
 </p>
 
 ## 🙆‍♀️「私について」 About Me
-* 🔊 With 13 years of audio design experience, I’ve worked across short films, TVCs, local films, and most recently, AAA titles at Ubisoft. I led sound design for Skull & Bones, from production through its live-game phase (1st year), delivering immersive audio that supports gameplay and narrative. <br>
-* 🎧 At Ubisoft, I handle SFX creation, integration, pipeline development, and feature innovation—while mentoring peers and ensuring mixes meet industry standards. I specialise in Wwise, Steinberg Nuendo, and using tech creatively to solve complex audio problems. <br>
-* 🎓 Nearing graduation with a double major in 💻Computer Science and 🎮Games Design at Murdoch University, I bring extra value through skills in project management, programming, ML, and software development—blending tech with artistry in every project. <br>
-* 🛠️ I've also developed two mini-games in Unity, expanding my understanding of game dev beyond audio and into the player’s experience as a whole. <br>
+* 🎧 With 13 years in sound design, I blend hands-on creativity with technical know-how across AAA titles, local films & commercials. At Ubisoft, I’ve led new feature audio from concept to implementation, planning sound design, shaping pipelines while mentoring teammates to hit both quality & timeline goals. <br>
+* 🛠️ Skilled in Wwise, Nuendo & Game Engines (Unity), I’ve also scripted C# tools to streamline workflows & support cross-discipline collaboration. <br>
+* 🎓 Graduating with a double major in Computer Science and Games Design, where I built a speech emotion recognition ML model & developed two Unity mini-games while managing teams, I’ve expanded my understanding of game dev beyond just audio. <br>
